@@ -1,0 +1,18 @@
+/* Created by: Catherine Vu
+* Created on: February 18 2025
+* This CSS file defines the style for index.html
+*/
+
+body {
+  background-color: #e8abd5;
+}
+
+h1 {
+  color: rgb(255, 132, 220);
+  text-align: center;
+
+}
+p {
+font-family:verdana;
+font size: 20px
+}
