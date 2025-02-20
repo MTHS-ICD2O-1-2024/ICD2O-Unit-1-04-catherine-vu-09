@@ -1,6 +1,6 @@
 /* Created by: Catherine Vu
 * Created on: February 18 2025
-* This CSS file defines the style for index.html
+* This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
 */
 
 body {
@@ -8,11 +8,17 @@ body {
 }
 
 h1 {
-  color: rgb(255, 132, 220);
+  background-color: rgb(255, 132, 220);
+  color: hsl(301, 100%, 53%);
+  padding: 40px;
   text-align: center;
-
 }
+
 p {
-font-family:verdana;
-font size: 20px
+  font-family: verdana;
+  font-size: 20px;
+}
+
+p {
+  background-color: #f0f;
 }
